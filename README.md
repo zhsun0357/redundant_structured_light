@@ -13,6 +13,6 @@ In `demo.ipynb` notebook, we include:
 
 In `MRF` folder, we incldue the scripts for Markov-Random-Field based spatial context decoder.
 
-In `` folder, we include the scripts for Convolution-Neural-Network based spatial context decoder.
+In `sl_coding_denoising` folder, we include the scripts for Convolution-Neural-Network based spatial context decoder.
 
 Otherwise, the basic ZNCC decoder is used (https://openaccess.thecvf.com/content_cvpr_2018/html/Mirdehghan_Optimal_Structured_Light_CVPR_2018_paper.html).
