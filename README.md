@@ -22,3 +22,17 @@ In `MRF` folder, we incldue the scripts for Markov-Random-Field based spatial co
 In `sl_coding_denoising` folder, we include the scripts for Convolution-Neural-Network based spatial context decoder.
 
 Otherwise, the basic ZNCC decoder is used (https://openaccess.thecvf.com/content_cvpr_2018/html/Mirdehghan_Optimal_Structured_Light_CVPR_2018_paper.html).
+
+## Citation
+If you find our work useful in your research, please consider citing:
+
+        @article{sun2024robust,
+          title={Robust structured light with efficient redundant codes},
+          author={Sun, Zhanghao and Zuo, Xinxin and Huo, Dong and Zhang, Yu and Qian, Yiming and Wang, Jian},
+          journal={Optics Express},
+          volume={32},
+          number={19},
+          pages={33507--33520},
+          year={2024},
+          publisher={Optica Publishing Group}
+        }
