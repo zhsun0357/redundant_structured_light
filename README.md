@@ -9,4 +9,4 @@ In `demo.ipynb` notebook, we include:
 
 1. Structured light simulation script for data stored in `data` folder
 
-2. Real-world evaluation for data stored at `https://drive.google.com/drive/folders/1DkGQb063Rrq0oCNld_e-dtgbfNXwphMf?usp=drive_link`
+2. Real-world evaluation for data stored at https://drive.google.com/drive/folders/1DkGQb063Rrq0oCNld_e-dtgbfNXwphMf?usp=drive_link
