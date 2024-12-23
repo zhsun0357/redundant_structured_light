@@ -1,6 +1,8 @@
 # Redundant Structured Light
 Github Repo for Optics Express 2024 Publication: "Robust Structured Light with Efficient Redundant Codes"
-:book: https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-19-33507&id=558446
+
+:book: Manuscript:
+https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-19-33507&id=558446
 
 :star: Youtube video: 
 https://youtu.be/9wjhcGQSmaA
