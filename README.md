@@ -1,5 +1,6 @@
 # Redundant Structured Light
 Github Repo for Optics Express 2024 Publication: "Robust Structured Light with Efficient Redundant Codes"
+
 [Zhanghao Sun], [Xinxin Zuo], [Dong Huo], Yu Zhang, [Yiming Qian], [Jian Wang]
 
 [Zhanghao Sun]: https://zhsun0357.github.io/
