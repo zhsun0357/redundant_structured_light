@@ -15,6 +15,8 @@ https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-19-33507&id=558446
 :star: Youtube video: 
 https://youtu.be/9wjhcGQSmaA
 
+<img src='figs/teaser.png' width="1000"/>
+
 ## Update 12/22/2024
 
 We uploaded the scripts and demo data. Please try it out if you are interested!
