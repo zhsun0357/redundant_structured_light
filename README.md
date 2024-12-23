@@ -2,6 +2,8 @@
 Github Repo for Optics Express 2024 Publication: "Robust Structured Light with Efficient Redundant Codes"
 
 **Update 12/22/2024:**
+
 We uploaded the scripts and demo data. Please try it out if you are interested!
+
 In `demo.ipynb` notebook, we include:
 1. 
