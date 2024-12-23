@@ -10,3 +10,9 @@ In `demo.ipynb` notebook, we include:
 1. Structured light simulation script for data stored in `data` folder
 
 2. Real-world evaluation for data stored at https://drive.google.com/drive/folders/1DkGQb063Rrq0oCNld_e-dtgbfNXwphMf?usp=drive_link
+
+In `MRF` folder, we incldue the scripts for Markov-Random-Field based spatial context decoder.
+
+In `` folder, we include the scripts for Convolution-Neural-Network based spatial context decoder.
+
+Otherwise, the basic ZNCC decoder is used (https://openaccess.thecvf.com/content_cvpr_2018/html/Mirdehghan_Optimal_Structured_Light_CVPR_2018_paper.html).
